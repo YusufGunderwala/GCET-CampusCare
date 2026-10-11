@@ -1,0 +1,12 @@
+# Ignore user uploads except directory structure and htaccess
+uploads/*
+!uploads/.htaccess
+!uploads/.gitkeep
+
+# System & IDE files
+.vscode/
+.idea/
+*.log
+Thumbs.db
+Desktop.ini
+.DS_Store
