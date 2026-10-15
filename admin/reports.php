@@ -7,7 +7,7 @@ require_role('admin');
 
 // Handle CSV Export
 if (isset($_GET['export']) && $_GET['export'] == 'csv') {
-    $filename = "gcet_campuscare_report_" . date('Y-m-d') . ".csv";
+    $filename = "gcet_campusconnect_report_" . date('Y-m-d') . ".csv";
     header('Content-Type: text/csv');
     header('Content-Disposition: attachment; filename="' . $filename . '"');
     

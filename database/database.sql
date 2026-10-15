@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS gcet_campuscare;
-USE gcet_campuscare;
+CREATE DATABASE IF NOT EXISTS gcet_campusconnect;
+USE gcet_campusconnect;
 
 -- Departments Table
 CREATE TABLE IF NOT EXISTS departments (

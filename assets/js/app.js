@@ -1,1 +1,1 @@
-console.log("GCET CampusCare Portal Initialized");
+console.log("GCET CampusConnect Portal Initialized");

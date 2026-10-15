@@ -118,7 +118,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                             <i class="bi bi-mortarboard-fill"></i>
                         </div>
                         <h3 class="fw-bold mb-1" style="color: var(--brand-navy); font-size: 1.7rem;">Student Registration</h3>
-                        <p class="text-muted small mb-0">Join G. H. Patel College of Engineering & Technology CampusCare</p>
+                        <p class="text-muted small mb-0">Join G. H. Patel College of Engineering & Technology CampusConnect</p>
                     </div>
 
                     <div class="card-body p-4 p-md-5 pt-3">

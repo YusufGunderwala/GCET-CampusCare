@@ -3,7 +3,7 @@
 <div class="container py-5">
     <div class="row justify-content-center">
         <div class="col-lg-8 text-center mb-5">
-            <h1 class="fw-bold">About GCET CampusCare</h1>
+            <h1 class="fw-bold">About GCET CampusConnect</h1>
             <p class="lead text-muted">A dedicated digital platform for streamlining campus services.</p>
         </div>
     </div>
@@ -12,7 +12,7 @@
         <div class="col-md-6 mb-4 mb-md-0">
             <div class="p-5 bg-white rounded-4 shadow-sm border">
                 <h3 class="fw-bold mb-3" style="color: var(--gcet-navy);">Our Mission</h3>
-                <p class="text-muted">The GCET CampusCare portal was developed to bridge the gap between students and administration. Our goal is to provide a transparent, efficient, and accountable system for managing college infrastructure and services.</p>
+                <p class="text-muted">The GCET CampusConnect portal was developed to bridge the gap between students and administration. Our goal is to provide a transparent, efficient, and accountable system for managing college infrastructure and services.</p>
                 <p class="mb-0 text-muted">By moving away from paper-based forms to a centralized digital solution, we ensure that every complaint is logged, assigned, tracked, and resolved in a timely manner.</p>
             </div>
         </div>

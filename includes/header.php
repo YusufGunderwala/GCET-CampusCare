@@ -31,7 +31,7 @@ require_once __DIR__ . '/functions.php';
             <i class="bi bi-mortarboard-fill fs-4" style="color: var(--brand-accent);"></i>
         </div>
         <div class="d-flex flex-column">
-            <span class="fw-bold lh-1" style="font-size: 1.15rem; letter-spacing: -0.3px;">GCET CampusCare</span>
+            <span class="fw-bold lh-1" style="font-size: 1.15rem; letter-spacing: -0.3px;">GCET CampusConnect</span>
             <span class="text-white-50 small" style="font-size: 0.7rem; letter-spacing: 0.5px;">G. H. PATEL COLLEGE OF ENG. & TECH.</span>
         </div>
     </a>

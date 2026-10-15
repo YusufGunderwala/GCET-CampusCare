@@ -1,6 +1,5 @@
--- Demo Data for GCET CampusCare
-
-USE gcet_campuscare;
+-- Demo Data for GCET CampusConnect
+USE gcet_campusconnect;
 
 -- Insert Departments
 INSERT INTO departments (department_name, department_code, description) VALUES

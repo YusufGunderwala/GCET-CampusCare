@@ -6,7 +6,7 @@
             <div class="col-lg-4 col-md-6 mb-3">
                 <div class="d-flex align-items-center mb-3">
                     <i class="bi bi-mortarboard-fill fs-3 text-warning me-2"></i>
-                    <h5 class="fw-bold mb-0 text-white">GCET CampusCare</h5>
+                    <h5 class="fw-bold mb-0 text-white">GCET CampusConnect</h5>
                 </div>
                 <p class="text-white-50 small mb-3">Providing a transparent, centralized digital governance platform for G. H. Patel College of Engineering & Technology students and administration.</p>
                 <div class="small text-white-50">

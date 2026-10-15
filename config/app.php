@@ -1,8 +1,25 @@
 <?php
 // config/app.php - Application Configuration
 
-define('APP_NAME', 'GCET CampusCare');
-define('APP_URL', 'http://localhost/Complaint%20System'); // Adjust if running in a different folder
+define('APP_NAME', 'GCET CampusConnect');
+
+// Dynamically determine the application base URL
+if (!defined('APP_URL')) {
+    if (isset($_SERVER['HTTP_HOST'])) {
+        $isHttps = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') || (isset($_SERVER['SERVER_PORT']) && $_SERVER['SERVER_PORT'] == 443);
+        $protocol = $isHttps ? "https://" : "http://";
+        $host = $_SERVER['HTTP_HOST'];
+        
+        $scriptDir = str_replace('\\', '/', dirname($_SERVER['SCRIPT_NAME'] ?? ''));
+        $parts = array_values(array_filter(explode('/', trim($scriptDir, '/'))));
+        $projectFolder = !empty($parts[0]) ? '/' . $parts[0] : '';
+        
+        define('APP_URL', $protocol . $host . $projectFolder);
+    } else {
+        define('APP_URL', 'http://localhost/GCET-CampusConnect');
+    }
+}
+
 define('APP_PATH', dirname(__DIR__));
 
 // Security & Session Settings

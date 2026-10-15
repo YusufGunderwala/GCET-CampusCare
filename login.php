@@ -62,7 +62,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                             <i class="bi bi-shield-lock-fill"></i>
                         </div>
                         <h3 class="fw-bold mb-1" style="color: var(--brand-navy); font-size: 1.6rem;">Welcome Back</h3>
-                        <p class="text-muted small mb-0">Sign in to GCET CampusCare Portal</p>
+                        <p class="text-muted small mb-0">Sign in to GCET CampusConnect Portal</p>
                     </div>
 
                     <div class="card-body p-4 pt-2">
