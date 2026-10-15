@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GCET CampusConnect — College Complaint & Service Portal
 
 ## Project Overview
@@ -30,3 +31,7 @@ GCET CampusConnect is a digital platform designed for G. H. Patel College of Eng
    - **IT Staff:** `itstaff@gcet.ac.in` / Password: `staff123`
    - **Estate Manager:** `estate@gcet.ac.in` / Password: `staff123`
    - **Student:** `johndoe@student.gcet.ac.in` / Password: `student123`
+=======
+# GCET-CampusConnect
+CampusConnect is a web-based campus management platform designed to simplify campus services, improve communication, and enhance the student experience through a centralized, user-friendly digital solution.
+>>>>>>> 18f8522dba7b8775fc1a4b6c19b7a51d3f0aa2c4
